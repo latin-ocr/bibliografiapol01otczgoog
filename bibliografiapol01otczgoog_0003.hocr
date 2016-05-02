@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bibliografiapol01otczgoog_0003.png"; bbox 0 0 3575 5850; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 966 3128 2672 3359">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 966 3077 2672 3359">
+     <span class='ocr_line' id='line_1_1' title="bbox 1124 3128 2672 3215; baseline -0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1124 3139 1616 3215; x_wconf 68' lang='lat' dir='ltr'>HARVARD</span> <span class='ocrx_word' id='word_1_2' title='bbox 1672 3139 1905 3211; x_wconf 56' lang='grc' dir='ltr'>[ΛΨ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1957 3139 2365 3211; x_wconf 72' lang='lat' dir='ltr'>sel-1001.</span> <span class='ocrx_word' id='word_1_4' title='bbox 2670 3128 2672 3133; x_wconf 82' lang='grc'><strong>’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 966 3232 2670 3359; baseline 0.006 -5"><span class='ocrx_word' id='word_1_5' title='bbox 966 3239 967 3258; x_wconf 55' lang='lat'>³</span> <span class='ocrx_word' id='word_1_6' title='bbox 1524 3287 1969 3359; x_wconf 71' lang='lat' dir='ltr'>LIBRARY</span> <span class='ocrx_word' id='word_1_7' title='bbox 2497 3232 2506 3279; x_wconf 51' lang='lat'><em>⁰</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2669 3261 2670 3268; x_wconf 56' lang='lat'>‘</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 820 1770 2678 4220">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 820 1770 2678 4220">
+     <span class='ocr_line' id='line_1_3' title="bbox 820 1770 2678 4220; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 820 1770 2678 4220; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 540 5426 1444 5850">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 540 5426 1444 5850">
+     <span class='ocr_line' id='line_1_4' title="bbox 540 5426 1444 5850; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 540 5426 1444 5850; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
